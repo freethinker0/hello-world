@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hello humanity, 
+
+Learn passionately and think critically.
